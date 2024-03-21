@@ -1,0 +1,244 @@
+.reseñas {
+
+    text-align: right;
+}
+
+.imagenexperiencia1 {
+
+    width: 350px;
+    height: 250px;
+    margin: 20px; 
+    float: right;
+    
+
+}
+img{max-width: 100%; height: auto;} 
+
+.imagenexperiencia {
+
+    
+    margin-right:100px; 
+    float: right;
+    max-width: 100%;
+	border-radius:20px;
+   
+    
+
+}
+.reseña1 {
+
+    Text-align:left;
+}
+
+.reseña2 {
+
+    Text-align:left;
+
+}
+
+.reseña3 {
+
+    Text-align:left;
+
+}
+
+.desayunos {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.introducciondesayunos {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.almuerzos {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.introduccionalmuerzo {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.desayunos1 {
+    display: flex;
+   justify-content: space-around;
+   align-items: end;
+
+}
+
+.opcion1 {
+
+    width: 300px;
+    margin: 30px;
+}
+
+.opcion2 {
+
+    width: 300px;
+    margin: 30px;
+}
+
+.plato2 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+.plato1 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+
+}
+
+.desayunos2 {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.opcion3 {
+
+    width: 300px;
+    margin: 30px;
+}
+
+.opcion4 {
+
+    width: 300px;
+    margin: 30px;
+}
+
+.plato3 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+.plato4 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+.almuerzo1 {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+
+}
+
+.opcion5 {
+
+    width: 300px;
+    margin: 30px;
+}
+
+.opcion6 {
+
+    width: 300px;
+    margin: 30px;
+}
+
+.plato5 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+.plato6 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+.almuerzo2 {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+
+}
+
+.opcion7 {
+
+    width: 300px;
+    margin: 30px;
+}
+
+.opcion8 {
+
+    width: 300px;
+    margin: 30px;
+}
+
+.plato7 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+.plato8 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+.parrafo {
+
+    text-align: center;
+}
+
+p{text-align: justify;}
+
+
+
+h2{
+    text-align: center;
+}
+
+hr{
+    margin-left: 200px;
+    max-width: 100%;
+}
+
+.dos {
+    margin-left: 300px;
+}
+
+#tabla{
+	border: solid 1px;
+	text-align: center;
+	padding: 10px;
+	background-color: gray;
+}
+#divtable{
+	padding:10px;
+	margin:100px;
+	
+}
+hr{
+	width: 1100px;
+	text-align: center;
+	margin-right: 200px
+}
+
+
+
